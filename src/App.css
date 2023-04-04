@@ -1,5 +1,17 @@
 .App {
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#quote-box {
+  height: 200px;
+  width: 600px;
+  margin-top: 250px
+}
+
+#new-quote {
+  width: 200px;
 }
 
 .App-logo {
